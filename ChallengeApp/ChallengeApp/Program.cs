@@ -14,7 +14,7 @@ else if (sex != 'F' && age < 18)
 {
     Console.WriteLine("Niepełnoletni Mężczyzna");
 }
-else (age > 33)
+else
 {
     Console.WriteLine("Pozostałe osoby");
 }

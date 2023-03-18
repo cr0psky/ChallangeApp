@@ -1,6 +1,6 @@
-﻿var name = "Ewa";
+﻿string name = "Ewa";
 char sex = 'F';
-var age = 33;
+int age = 33;
 
 if (sex == 'K' && age < 30)
 {
